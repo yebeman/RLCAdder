@@ -1,4 +1,4 @@
-#define COMMENT_STRING         "This program adds resistors, capacitors and inductors that are in parallel and series"
+#define COMMENT_STRING         "This program adds resistors, capacitors and inductors that are in parallel or series"
 #define COMMENT_PROGRAM_NAME   "RLC Component ADDER"
 #define COMMENT_VERSION_STRING "rlc 1.0"
 #define COMMENT_VERSION_NUMBER 1,0,0,0 /* major, minor, revision, subrevision */
