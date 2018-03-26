@@ -1,6 +1,5 @@
 # RLCAdder
 TI calculator program. Download TI Connect from Texas Instruments to compile and upload 
 
-For more info go to
+You can also download it from <a href= "http://www.ticalc.org/archives/files/authors/112/11235.html"> TiCalc.Org</a>
 
-<a href= "http://www.ticalc.org/archives/files/authors/112/11235.html"> For more info go to TiCalc Org</a>
